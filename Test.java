@@ -14,7 +14,5 @@ public class Test {
 		  .filter(num -> num > 4 && num < 0)
 		  .forEach(System.out::println);
 
-	}
-	
-	
+	}	
 }
